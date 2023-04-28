@@ -1,2 +1,2 @@
-# MyFirstGameRepo
+# Solitare Demo Game
 none
